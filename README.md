@@ -67,6 +67,4 @@ Ce code Python implémente un système d'authentification utilisateur avec une i
 **Auteur**
 zidaneravilimita@gmail.com
 
-**Remarque**
-Cette application est en cours, si vous avez des idées pour améliorer mon projet n'hésitez pas le modifier ou contacter moi, mreci d'avance pour de votre aide !!!
-
+**Remarque :** Cette application est actuellement en développement. Si vous avez des idées pour améliorer mon projet, n'hésitez pas à le modifier ou à me contacter. Merci d'avance pour votre aide !
